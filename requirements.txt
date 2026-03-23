@@ -1,0 +1,16 @@
+streamlit
+supabase
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+psycopg2-binary
+sentence-transformers
+PyMuPDF
+python-docx
+mistralai
+httpx
+pgvector
+numpy
